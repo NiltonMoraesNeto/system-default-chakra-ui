@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "nilton@nilton.com",
+      "password": "$2a$10$avSV5Oib3bEw8pJwwwZEhecHyWLKL.1kQ.XZjj9ryqSBhPMPZ51.q"
+    }
+  ],
+  "usuario": [
+    {
+      "id": "1",
+      "nome": "Nilton Moraes Neto",
+      "email": "nilton@nilton.com",
+      "dateCreated": "01/01/1900",
+      "sexo": "Masculino",
+      "telefone": "",
+      "cep": "",
+      "logradouro": "",
+      "bairro": "",
+      "cidade": "",
+      "estado": "",
+      "numero": "",
+      "complemento": ""
+    }
+  ]
+}
